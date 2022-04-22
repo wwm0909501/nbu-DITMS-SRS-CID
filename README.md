@@ -24,6 +24,9 @@ Caution:  t-V  Square wave voltage loaded in the x and y directions with a fixed
 
                t-e       The ion kinetic change with time 
 
+
+This is a trajectory based method for calculating molecular colision induced dissociation for use with ITMS experiments. We welcome the submission of bugs, improvements, and suggestions to the code.
+
 Thanks
 
                                                                        --Ningbo University  Fuxing Xu, Weimin Wang#, Li Ding*, Chuan-Fan Ding*
